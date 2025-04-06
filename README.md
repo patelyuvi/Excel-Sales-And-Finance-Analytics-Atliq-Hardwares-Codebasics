@@ -1,28 +1,60 @@
-# Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares-Codebasics-
+# Excel-Based Sales & Financial Analytics – AtliQ Hardware (Codebasics Project)
 
-## Project objective - 
+## 🧠 Project Overview
 
-AtliQ Hardware, a top hardware company specializing in PCs, Printers, Mouse, and Computers worldwide, needs to boost sales and improve net gross margins and Profits.
+AtliQ Hardware, a leading global provider of PCs, printers, and computer accessories, was facing challenges in optimizing sales performance and improving profit margins. With fragmented Excel reports from various regional managers, gaining cohesive and actionable insights had become a hurdle.
 
-Now Sales director doesn't just want the reports or Excel files from different regional managers because there are a lot of Excel files and from these reports, potential insights will not come out, so in that case a Data Analyst plays a vital role.
+This is where a data-driven approach using Excel analytics came into play.
 
-### My Goal as a Data Analyst- 
+## 🎯 Objective
 
-This project tackles analyzing a huge dataset with over half a million unorganized sales records, requiring a lot of effort to organize (ETL). The goal is to find important insights to help AtliQ hardware make smart decisions and track key performance indicators (KPIs). The main aim is to make big improvements in how well the company does, especially in net sales and net gross margin.
+As a Data Analyst, my role was to transform scattered and raw data into structured insights. The dataset, containing over **500,000+ unorganized records**, demanded significant cleaning and structuring (ETL processes). The core objective was to extract meaningful KPIs and performance trends that could help leadership make smarter, faster business decisions—especially around **net sales** and **gross margin optimization**.
 
-### Task Performed and Insights - 
+---
 
-* Project 1: Sales Analysis
+## 📊 What I Did – Task Breakdown & Key Insights
 
-Made a detailed report on **customer performance**. Compared to how well they are doing throughout the years, also are they able to achieve the target or not?
-This helps Atliq to keep an eye on their customer sales also how much discounts they should give to the customers.
-Also made a **market performance vs target report** which helps to understand in which country or market AtliQ doing business well and in which country they don't.
+### 📌 Sales Performance Analysis
 
-* Project 2: Financial Analysis
+- Built a **Customer Performance Dashboard** showing year-over-year trends and whether customers were meeting sales targets.
+- Offered recommendations for **discount strategies** by evaluating customer contributions to overall sales.
+- Created a **Market vs Target Comparison Report** to identify underperforming regions and highlight areas of strong market presence.
 
-Made detailed Profit and Loss (P&L) reports by Year, Month, and Quarter level.  Also made P&L reports for different markets.
-This helps AtliQ understand how they are doing financially, aiding in making smart choices. Clear and helpful reports were created for communicating with stakeholders. It assisted in comparing AtliQ to other companies and in setting up a plan for budgeting and future spending.
+### 💰 Financial Reporting & Profitability Analysis
 
-* Also made a report to analyze Gross Margin percentage (GM%) by Quarters (sub_zone).
+- Developed multi-layered **Profit & Loss (P&L) statements** segmented by **Year, Month, Quarter**, and **Market**.
+- Delivered insights that allowed leadership to assess **financial health** across different business segments.
+- Provided clean, presentation-ready reports for stakeholder communication and decision-making.
 
-* Finally made a detailed report to evaluate different things such as the Top 10 Products that are doing very well, Division Level Report, Top and Bottom 5 Products, and Top 5 countries.
+### 📈 Gross Margin Evaluation
+
+- Analyzed **Gross Margin % (GM%)** by quarter and sub-zones to pinpoint profitability trends.
+- Offered clarity into which product categories or regions contributed most to high-margin sales.
+
+### 🏆 Performance Drilldown Reports
+
+- Designed dashboards showcasing:
+  - **Top 10 Performing Products**
+  - **Division-Level Analysis**
+  - **Top & Bottom 5 Products**
+  - **Top 5 Countries by Revenue**
+
+These deep dives helped uncover which areas were driving performance — and which ones needed strategic intervention.
+
+---
+
+## 🛠️ Tools Used
+
+- **Microsoft Excel (Advanced)**: Pivot Tables, VLOOKUP/XLOOKUP, Charts, Slicers, Conditional Formatting
+- **Data Cleaning & Transformation**: Manual ETL within Excel
+- **Presentation Tools**: Dashboards formatted for executive reporting
+
+---
+
+## 🚀 Outcome
+
+This project not only centralized AtliQ’s sales and financial data but also empowered business leaders with **data-backed insights** to drive profitability and streamline decision-making. It bridged the gap between raw data and strategic planning — all within the power of Excel.
+
+---
+
+> 💡 *Note: This project is inspired by Codebasics' real-world business case study and was completed as part of a data analytics learning journey.*
